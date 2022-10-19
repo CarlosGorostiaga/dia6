@@ -1,4 +1,4 @@
-let suma = (op1 = 0, op2 = 0) => (`${op1} + ${op2} = ${op1 + op2}`);
+
 let resta = (op1 = 0, op2 = 0) => (`${op1} - ${op2} = ${op1 - op2}`);
 let multiplicacion = (op1 = 0, op2 = 0) => (`${op1} * ${op2} = ${op1 * op2}`);
 let division = (op1 = 0, op2 = 0) => (`${op1} / ${op2} = ${op1 / op2}`);
